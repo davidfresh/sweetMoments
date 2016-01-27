@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4 (381) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home-Desktop" sketch:type="MSArtboardGroup" transform="translate(-634.000000, -1808.000000)">
+            <g id="Footer-Section" sketch:type="MSLayerGroup" transform="translate(0.000000, 1677.000000)">
+                <g id="Social-Buttons" transform="translate(634.000000, 131.000000)" sketch:type="MSShapeGroup">
+                    <g id="Facebook">
+                        <circle id="Facebook-BG" fill="#FFFFFF" cx="16" cy="16.5" r="16"></circle>
+                        <path d="M17.1546943,23 L17.1546943,16.4992389 L19.2255649,16.4992389 L19.5,14.2590406 L17.1546943,14.2590406 L17.1582128,13.1377998 C17.1582128,12.5535216 17.2222769,12.240452 18.1907161,12.240452 L19.48534,12.240452 L19.48534,10 L17.4141762,10 C14.9263754,10 14.050734,11.0867372 14.050734,12.9142874 L14.050734,14.2592943 L12.5,14.2592943 L12.5,16.4994926 L14.050734,16.4994926 L14.050734,23 L17.1546943,23 L17.1546943,23 L17.1546943,23 L17.1546943,23 Z" id="Facebook-Logo" fill="#333333"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

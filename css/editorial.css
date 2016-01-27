@@ -1,0 +1,23 @@
+/* Editorial*/
+
+h1{
+color: #FFFFFF;
+font-size: 60px;
+font-weight: 700;
+}
+
+
+
+.footer_a {
+color:#ffffff;
+text-decoration: none;
+}
+.header_a{
+	 color: #5ea09d;
+	 
+	 text-decoration: none;
+	 border: 2px solid #5ea09d;
+	 border-radius: 5px;
+	 padding: 0 2px 0 2px;
+
+}

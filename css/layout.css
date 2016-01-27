@@ -1,0 +1,46 @@
+/* Layout */
+
+header{
+position: fixed;
+width: 100%;
+background-color: white;
+padding: 10px 0;
+box-sizing: border-box;
+top: 0;
+
+}
+header img{
+border-radius: 30px;
+width: 50%;
+
+}
+nav ul li{
+
+ display: inline;
+ font-weight: 400;
+
+}
+
+
+footer ul li{
+background-color: #565656;
+display: inline;
+
+
+}
+
+footer {
+background-color: #565656;
+width: 100%;
+bottom: 0;
+color: #fff;
+	
+
+}
+
+.logo{   
+
+	width: 61%;
+	margin: 4px 0;
+}
+
